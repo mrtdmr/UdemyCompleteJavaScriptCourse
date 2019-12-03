@@ -1,0 +1,3 @@
+Execution Context : Box, container or a wrapper which stores variables and in which a piece of our code is evaluated and executed.
+Global Execution Context : This context is for global variables or functions that are not inside of any function.
+All of contexts are objects. Global context is equal to window object. lastName === windows.lastName //true

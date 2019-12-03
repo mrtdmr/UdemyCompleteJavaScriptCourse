@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "2-JsBasics"
+		},
+		{
+			"path": "3-How JavaScript Works Behind the Scenes"
+		},
+		{
+			"path": "4-JavaScript in the Browser DOM Manipulation and Events"
+		}
+	]
+}
