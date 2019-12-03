@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "4-JavaScript in the Browser DOM Manipulation and Events"
+		},
+		{
+			"path": "5-Advanced JavaScript Objects and Functions"
 		}
 	]
 }
